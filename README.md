@@ -1,7 +1,7 @@
 - 👋 Welcome to my profile, my name is Leo.
 - 👀 I’m interested in Python, Html, CSS, and want to start to learn Javascript!
 - 🌱 I’m currently studying computer science in college and am looking to attain my associates degree for now.
-- 💞️ I’m looking to collaborate on any small projects for now or even make other like minded friends who are interested in collaborating together in the future.
+- 💞️ I’m looking to collaborate on any small projects for now or even make other like minded friends who are interested in collaborating together in the future. Id also like to be involved in some open source projects and discord communities for them.
 - 📫 How to reach me : Github / Gmail: leo.platti15@gmail.com
 
 <!---
