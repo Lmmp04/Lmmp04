@@ -1,6 +1,6 @@
-- 👀 Welcome to my profile. I’m interested in Python, Html, CSS, and want to start to learn Javascript!
+- 👀 Welcome to my profile. I’m interested in Python, Web Design, and want to start to learn C and Javascript!
 - 🌱 I’m studying for my associates degree in computer science.
-- 💞️ I’m interested in collaborating on small projects for now or even make other like minded friends who are interested in collaborating together in the future. Id also like to be involved in some open source projects and discord communities for them.
+- 💞️ I’m interested in collaborating on small projects for now or even meet other like minded peers who are interested in collaborating together in the future. Id also like to be involved in some open source projects and discord communities for them.
 - 📫 How to reach me : Github / Gmail: leo.platti15@gmail.com
 
 <!---
